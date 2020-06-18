@@ -7,7 +7,7 @@
     "sequelize-cli": "./lib/sequelize"
   },
   "files": [
-    "lib"
+    "lib/"
   ],
   "dependencies": {
     "cli-color": "^1.4.0",
